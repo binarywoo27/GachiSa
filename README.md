@@ -38,6 +38,10 @@
 <details markdown="1">
 <summary> <h1> 프로젝트 발표 자료 (전체): </h1> </summary>
 
+<!-- ### 스토리보드: 
+<img width="834" alt="KakaoTalk_Photo_2020-12-16-22-15-19" src="https://user-images.githubusercontent.com/49421143/166146864-9c3b8bf2-29ae-4a35-a0d7-7f24d6b2b08f.png">
+-->
+
 ### 1) 표지
 <img src = "https://user-images.githubusercontent.com/49421143/166136372-4ee43581-7d14-4ffc-9d03-0b9acd7bd8c8.png" width="60%">
 
