@@ -24,7 +24,7 @@
 <img src="https://user-images.githubusercontent.com/49421143/166136506-192e22f6-121d-4827-9559-af2c760797df.png" width="60%">
 
 #### 2) 검색 페이지 : 
-<img src="https://user-images.githubusercontent.com/49421143/166136507-5c528ab1-c3f3-418d-a3ab-bcc59cc22e0c.png" width="60%">
+<img src="https://user-images.githubusercontent.com/49421143/166138523-6d06c6b2-3355-4d6d-87cb-b2dd14edc63d.png" width="60%">
 
 #### 3) 등록 페이지 :
 <img src="https://user-images.githubusercontent.com/49421143/166136510-9ccb47e3-b3f2-4665-99f7-438b70d9a15b.png" width="60%">
@@ -54,7 +54,7 @@
 <img src="https://user-images.githubusercontent.com/49421143/166136506-192e22f6-121d-4827-9559-af2c760797df.png" width="60%">
 
 ### 7) 제품/서비스 검색
-<img src="https://user-images.githubusercontent.com/49421143/166136507-5c528ab1-c3f3-418d-a3ab-bcc59cc22e0c.png" width="60%">
+<img src="https://user-images.githubusercontent.com/49421143/166138523-6d06c6b2-3355-4d6d-87cb-b2dd14edc63d.png" width="60%">
 
 ### 8) 제품/서비스 공동구매 등록 
 <img src="https://user-images.githubusercontent.com/49421143/166136510-9ccb47e3-b3f2-4665-99f7-438b70d9a15b.png" width="60%">
