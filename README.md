@@ -13,6 +13,9 @@
 ### 📅 개발기간:
 2020.10 ~ 2020.12
 
+### 기술 스택:
+<img src="https://user-images.githubusercontent.com/49421143/166142854-afe2fb7c-c7ac-4c4e-af35-01d9fb9c6fcb.png" width="60%">
+
 ### 💻 팀원 및 담당파트
 이영환: 로그인 홈, 상세정보/마이페이지 개발, DB설계: Firebase 컬렉션/문서 필드 작성 </br>
 이진우: 카테고리, 검색, 등록 페이지 개발, 테스트 데이터 생성
